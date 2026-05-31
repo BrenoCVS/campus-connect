@@ -26,4 +26,4 @@
 * [cite_start]**Comunicação:** `WhatsApp (Comunidades)` [cite: 91] - [cite_start]Canal oficial para alinhamento rápido da equipe, avisos gerais e tomada de decisões, reduzindo falhas de comunicação[cite: 85, 95, 201].
 
 ---
-[cite_start]*Projeto prático desenvolvido para a disciplina de Gestão Ágil de Projetos - Bacharelado em Sistemas de Informação (IFSP Câmpus Votuporanga).* [cite: 1, 2, 3]
+[cite_start]*Projeto prático desenvolvido para a disciplina de Gestão Ágil de Projetos - Bacharelado em Sistemas de Informação (IFSP Câmpus Votuporanga)* [cite: 1, 2, 3]
