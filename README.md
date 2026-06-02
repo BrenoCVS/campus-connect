@@ -20,9 +20,12 @@ Resolver a descentralização das informações de eventos no campus, permitindo
 ##  Ferramentas Utilizadas no Ecossistema Ágil
 Para simular o ambiente de trabalho de uma equipe ágil profissional, configuramos as seguintes ferramentas:
 
-**Gestão de Tarefas (Kanban):** `Trello`: Utilizado para organizar o fluxo de trabalho através das colunas Backlog, To Do, Doing e Done, permitindo o acompanhamento visual do progresso das atividades.
+**Gestão de Tarefas (Kanban):** `Trello`: Utilizado para organizar o fluxo de trabalho através das colunas Backlog, To Do, Doing e Done,permitindo o acompanhamento visual do progresso das atividades.
+
 **Versionamento:** `GitHub` :Utilizado para o controle de versão do código-fonte, histórico de alterações e garantia de rastreabilidade do projeto.
+
 **Documentação:** `Google Docs`: Central de conhecimento para registrar a visão do produto, regras iniciais, requisitos e decisões técnicas importantes.
+
 **Comunicação:** `WhatsApp (Comunidades)`: Canal oficial para alinhamento rápido da equipe, avisos gerais e tomada de decisões, reduzindo falhas de comunicação.
 
 ---
